@@ -6,7 +6,7 @@
 ## 文件夹说明
 |   名称           | 功能 |
 | --------------- | ---- |
-|asset|资源|
-|export|导出文件|
+|[asset](https://github.com/GrooveWJH/CopiterNotes/tree/master/asset)|资源|
+|[export(内容以md为准)](https://github.com/GrooveWJH/CopiterNotes/tree/master/export)|导出文件|
 
 
